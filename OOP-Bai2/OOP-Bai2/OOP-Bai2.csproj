@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
-    <ProjectGuid>{9CB12348-4E5F-414F-A961-1D5B67835A1D}</ProjectGuid>
+    <ProjectGuid>{03743046-9FBE-48EC-95F0-E9B42009DC72}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOPBai1</RootNamespace>
-    <AssemblyName>OOP-Bai1</AssemblyName>
+    <RootNamespace>OOPBai2</RootNamespace>
+    <AssemblyName>OOP-Bai2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
@@ -32,7 +32,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Coodinator.cs" />
+    <Compile Include="Attributes.cs" />
+    <Compile Include="StudentInformation.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

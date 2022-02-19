@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/OOP/OOP-Bai2/OOP-Bai2/bin/Debug/OOP-Bai2.exe
+/Users/tuanle/Desktop/De/OOP/OOP-Bai2/OOP-Bai2/bin/Debug/OOP-Bai2.pdb
+/Users/tuanle/Desktop/De/OOP/OOP-Bai2/OOP-Bai2/obj/Debug/OOP-Bai2.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/OOP/OOP-Bai2/OOP-Bai2/obj/Debug/OOP-Bai2.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/OOP/OOP-Bai2/OOP-Bai2/obj/Debug/OOP-Bai2.exe
+/Users/tuanle/Desktop/De/OOP/OOP-Bai2/OOP-Bai2/obj/Debug/OOP-Bai2.pdb

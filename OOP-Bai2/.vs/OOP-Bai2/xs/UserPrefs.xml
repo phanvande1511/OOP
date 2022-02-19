@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{9CB12348-4E5F-414F-A961-1D5B67835A1D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OOP-Bai1/Program.cs">
+﻿<Properties StartupConfiguration="{03743046-9FBE-48EC-95F0-E9B42009DC72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP-Bai2/Program.cs">
     <Files>
-      <File FileName="OOP-Bai1/Program.cs" Line="27" Column="31" />
-      <File FileName="OOP-Bai1/Coodinator.cs" />
+      <File FileName="OOP-Bai2/Program.cs" Line="43" Column="33" IsPinned="True" />
+      <File FileName="OOP-Bai2/Attributes.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="OOP-Bai1" expanded="True">
-            <Node name="OOP-Bai1" expanded="True">
+          <Node name="OOP-Bai2" expanded="True">
+            <Node name="OOP-Bai2" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,7 +16,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.OOP-Bai1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OOP-Bai2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
