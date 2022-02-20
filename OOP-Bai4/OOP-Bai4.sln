@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Bai4", "OOP-Bai4\OOP-Bai4.csproj", "{E33BC3C8-5484-4D12-8A3B-4B4C064D8115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E33BC3C8-5484-4D12-8A3B-4B4C064D8115}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E33BC3C8-5484-4D12-8A3B-4B4C064D8115}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E33BC3C8-5484-4D12-8A3B-4B4C064D8115}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E33BC3C8-5484-4D12-8A3B-4B4C064D8115}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC8CC6D6-FCED-48F4-8057-D778A2CDC7DC}
+	EndGlobalSection
+EndGlobal
