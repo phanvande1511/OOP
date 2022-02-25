@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F58EABB5-AEF1-4CC8-9046-EBC3BF3E91D6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP-Bai5/Program.cs">
+    <Files>
+      <File FileName="OOP-Bai5/Program.cs" Line="22" Column="10" />
+      <File FileName="OOP-Bai5/FoodGoods.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP-Bai5" expanded="True">
+            <Node name="OOP-Bai5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOP-Bai5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
