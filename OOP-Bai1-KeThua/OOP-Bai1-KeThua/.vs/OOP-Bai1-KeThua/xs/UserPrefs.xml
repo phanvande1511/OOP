@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C04C309D-22B4-4308-84FC-267DE030CE69}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP-Bai1-KeThua/NgoaiThanh.cs">
+    <Files>
+      <File FileName="OOP-Bai1-KeThua/Program.cs" Line="9" Column="73" />
+      <File FileName="OOP-Bai1-KeThua/NoiThanh.cs" />
+      <File FileName="OOP-Bai1-KeThua/NgoaiThanh.cs" Line="20" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP-Bai1-KeThua" expanded="True">
+            <Node name="OOP-Bai1-KeThua" expanded="True">
+              <Node name="NgoaiThanh.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.OOP-Bai1-KeThua PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

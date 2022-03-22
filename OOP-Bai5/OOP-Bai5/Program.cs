@@ -18,25 +18,25 @@ namespace OOPBai5
             rice.check();
 
             DateTime noodleDateOfManufacture = new DateTime(2012, 1, 1);
-            DateTime noodleExpirationDate = new DateTime(2023, 4, 6);
+            DateTime noodleExpirationDate = new DateTime(2022, 4, 6);
 
             FoodGoods noodle = new FoodGoods();
             noodle.setItemCode("002");
             noodle.setNameItems("Noodle");
             noodle.setMoney(5000);
-            noodle.setDateOfManufacture(riceDateOfManufacture);
-            noodle.setExpirationDate(riceExpirationDate);
+            noodle.setDateOfManufacture(noodleDateOfManufacture);
+            noodle.setExpirationDate(noodleExpirationDate);
             noodle.check();
 
             DateTime waterDateOfManufacture = new DateTime(2012, 1, 1);
-            DateTime waterExpirationDate = new DateTime(2023, 4, 6);
+            DateTime waterExpirationDate = new DateTime(2021, 4, 6);
 
             FoodGoods water = new FoodGoods();
             water.setItemCode("003");
             water.setNameItems("Water");
             water.setMoney(10000);
-            water.setDateOfManufacture(riceDateOfManufacture);
-            water.setExpirationDate(riceExpirationDate);
+            water.setDateOfManufacture(waterDateOfManufacture);
+            water.setExpirationDate(waterExpirationDate);
             water.check();
 
             menu();

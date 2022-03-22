@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/OOP/OOP-Bai1-KeThua/OOP-Bai1-KeThua/OOP-Bai1-KeThua/bin/Debug/OOP-Bai1-KeThua.exe
+/Users/tuanle/Desktop/De/OOP/OOP-Bai1-KeThua/OOP-Bai1-KeThua/OOP-Bai1-KeThua/bin/Debug/OOP-Bai1-KeThua.pdb
+/Users/tuanle/Desktop/De/OOP/OOP-Bai1-KeThua/OOP-Bai1-KeThua/OOP-Bai1-KeThua/obj/Debug/OOP-Bai1-KeThua.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/OOP/OOP-Bai1-KeThua/OOP-Bai1-KeThua/OOP-Bai1-KeThua/obj/Debug/OOP-Bai1-KeThua.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/OOP/OOP-Bai1-KeThua/OOP-Bai1-KeThua/OOP-Bai1-KeThua/obj/Debug/OOP-Bai1-KeThua.exe
+/Users/tuanle/Desktop/De/OOP/OOP-Bai1-KeThua/OOP-Bai1-KeThua/OOP-Bai1-KeThua/obj/Debug/OOP-Bai1-KeThua.pdb

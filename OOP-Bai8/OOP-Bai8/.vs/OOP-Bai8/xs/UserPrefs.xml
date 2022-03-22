@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9BF6E5F3-213D-45B1-B4A6-035725710DA2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP-Bai8/CD.cs">
+    <Files>
+      <File FileName="OOP-Bai8/Program.cs" Line="16" Column="13" IsPinned="True" />
+      <File FileName="OOP-Bai8/CD.cs" Line="6" Column="26" />
+      <File FileName="OOP-Bai8/CDList.cs" Line="30" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP-Bai8" expanded="True">
+            <Node name="OOP-Bai8" expanded="True">
+              <Node name="CD.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOP-Bai8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

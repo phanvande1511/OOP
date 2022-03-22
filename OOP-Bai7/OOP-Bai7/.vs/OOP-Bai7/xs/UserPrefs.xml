@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A5683FB1-62DA-4BD8-823C-54845A422E3C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP-Bai7/Program.cs">
+    <Files>
+      <File FileName="OOP-Bai7/Program.cs" Line="25" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP-Bai7" expanded="True">
+            <Node name="OOP-Bai7" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOP-Bai7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{02701BC2-74B9-439D-A9AD-B8A2FE545A13}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OPP-Bai6/Account.cs">
+    <Files>
+      <File FileName="OPP-Bai6/Program.cs" Line="27" Column="33" />
+      <File FileName="OPP-Bai6/Account.cs" Line="89" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OPP-Bai6" expanded="True">
+            <Node name="OPP-Bai6" expanded="True">
+              <Node name="Account.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.OPP-Bai6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

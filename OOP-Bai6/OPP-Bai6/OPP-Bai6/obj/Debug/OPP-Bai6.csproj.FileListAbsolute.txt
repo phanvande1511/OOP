@@ -1,0 +1,6 @@
+/Users/tuanle/Desktop/De/OOP/OOP-Bai6/OPP-Bai6/OPP-Bai6/obj/Debug/OPP-Bai6.csproj.AssemblyReference.cache
+/Users/tuanle/Desktop/De/OOP/OOP-Bai6/OPP-Bai6/OPP-Bai6/obj/Debug/OPP-Bai6.csproj.CoreCompileInputs.cache
+/Users/tuanle/Desktop/De/OOP/OOP-Bai6/OPP-Bai6/OPP-Bai6/bin/Debug/OPP-Bai6.exe
+/Users/tuanle/Desktop/De/OOP/OOP-Bai6/OPP-Bai6/OPP-Bai6/bin/Debug/OPP-Bai6.pdb
+/Users/tuanle/Desktop/De/OOP/OOP-Bai6/OPP-Bai6/OPP-Bai6/obj/Debug/OPP-Bai6.exe
+/Users/tuanle/Desktop/De/OOP/OOP-Bai6/OPP-Bai6/OPP-Bai6/obj/Debug/OPP-Bai6.pdb
